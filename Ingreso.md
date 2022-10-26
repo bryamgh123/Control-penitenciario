@@ -1,2 +1,2 @@
-# Ingreso de los horarios dados 
-** Union de horarios 
+# Agregamos los horarios datos 
+** horarios dispuestos  por el cliente
